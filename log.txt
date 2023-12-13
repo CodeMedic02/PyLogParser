@@ -1,0 +1,20 @@
+2023-12-08 00:59:03, INFO, Starting the program
+2023-12-08 00:59:04, DEBUG, Loading the configuration file
+2023-12-08 00:59:05, INFO, Connecting to the database
+2023-12-08 00:59:06, WARNING, Database connection timeout, retrying
+2023-12-08 00:59:07, INFO, Database connection established
+2023-12-08 00:59:08, DEBUG, Querying the data
+2023-12-08 00:59:09, INFO, Data retrieved successfully
+2023-12-08 00:59:10, DEBUG, Processing the data
+2023-12-08 00:59:11, WARNING, Invalid data format, skipping
+2023-12-08 00:59:12, DEBUG, Saving the results
+2023-12-08 00:59:13, INFO, Results saved successfully
+2023-12-08 00:59:14, DEBUG, Sending the email
+2023-12-08 00:59:15, WARNING, Email server not responding, retrying
+2023-12-08 00:59:16, INFO, Email sent successfully
+2023-12-08 00:59:17, DEBUG, Closing the database connection
+2023-12-08 00:59:18, INFO, Database connection closed
+2023-12-08 00:59:19, DEBUG, Cleaning up the temporary files
+2023-12-08 00:59:20, INFO, Temporary files deleted
+2023-12-08 00:59:21, DEBUG, Stopping the program
+2023-12-08 00:59:22, INFO, Program stopped
